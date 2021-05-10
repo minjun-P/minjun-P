@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=minjun-P&show_icons=true&hide_border=true)](https://github.com/shinplest)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minun-P&layout=compact)](https://github.com/shinplest)
+
 
 <a href="" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/></a>
